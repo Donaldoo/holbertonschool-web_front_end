@@ -441,5 +441,8 @@ a:active {
 
 .container {
 	width: 960px;
-	margin: auto;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
 }
