@@ -477,8 +477,11 @@ a:active {
 }
 
 .footer {
-	ul {text-align: right;}
         padding: var(--footer-padding);
+}
+
+.footer ul {
+	text-align: right;
 }
 
 .footer-copyright {
