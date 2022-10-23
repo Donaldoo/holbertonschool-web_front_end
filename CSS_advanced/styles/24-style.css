@@ -562,7 +562,7 @@ ul.row {
 	background-color: var(--color-black);
 }
 
-.card-title .card-services {
+.card-services .card-title {
 	margin: 0;
 }
 
